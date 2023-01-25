@@ -2,6 +2,14 @@
 
 Template Repo for Python Projects
 
+## Usage
+
+A new repo can be [initialised from this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+
+You should then customise the following files for your project:
+
+- `README.md`
+- `pyproject.toml`
 
 ## Developers
 
